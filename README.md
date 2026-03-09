@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi there! I'm Gleb!
 
-<!--
-**mrwintermute/mrwintermute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python developer based in Russia.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, Git, GitHub
+
+Currently learning Python, Django, FastAPI, SQL
+
+PyCharm
+
+### 🌱 What I'm up to
+
+Taking a comprehensive Python course
+
+Mastering Git and GitHub
+
+Solving challenges on Codewars
+
+### 📫 How to reach me
+
+Telegram: @mrwintermute
+
+### ⚡ Fun fact
+I love coffee, video-games and solving logic puzzles ☕
