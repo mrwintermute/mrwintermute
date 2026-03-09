@@ -6,7 +6,7 @@ Aspiring Python developer based in Russia.
 
 Python, Git, GitHub
 
-Currently learning Python, Django, FastAPI, SQL
+Currently learning Python | Django, FastAPI, PostgreSQL, SQL
 
 PyCharm
 
@@ -16,7 +16,7 @@ Taking a comprehensive Python course
 
 Mastering Git and GitHub
 
-Solving challenges on Codewars
+Solving challenges 
 
 ### 📫 How to reach me
 
