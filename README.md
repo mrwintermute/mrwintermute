@@ -20,7 +20,7 @@ Solving challenges
 
 ### 📫 How to reach me
 
-Telegram: @mrwintermute
+Telegram: @cynicznykot
 
 ### ⚡ Fun fact
 I love coffee, video-games and solving logic puzzles ☕
