@@ -48,6 +48,7 @@ Let's connect! 🚀
 - REST API Design
 - SQLAlchemy & Alembic
 - Testing with Pytest
+- **Java** (building a Task Manager project to understand OOP and backend logic)
 
 ---
 
@@ -82,5 +83,6 @@ So stay tuned — there's more to come. ☕
 ## ☕ A bit about me
 
 - 🐍 I write Python code like I solve puzzles — step by step, until everything clicks.
+- ☕ I'm currently exploring Java by rewriting my Task Manager project to better understand object-oriented programming and different backend approaches.
 - 🎮 I spend my free time gaming, which taught me patience, strategy, and the importance of a good save file.
 - 📚 I'm always learning, whether it's a new framework, a design pattern, or just a better way to write a loop.
