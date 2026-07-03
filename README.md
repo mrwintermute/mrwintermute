@@ -15,6 +15,7 @@ Let's connect! 🚀
 <p align="center">
   <a href="https://t.me/cynicznykot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/glob-krotov-5382b03b6"><img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=61574364544861"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://steamcommunity.com/id/Cynicznykot"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white&logoWidth=28" alt="Steam"></a>
 </p>
 
