@@ -13,42 +13,41 @@ Let's connect! 🚀
 </p>
 
 <p align="center">
-  <a href="https://t.me/cynicznykot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/gleb-krotov-5382b03b6/"><img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/profile.php?id=61574364544861"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://steamcommunity.com/id/Cynicznykot"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white&logoWidth=28" alt="Steam"></a>
+  <a href="https://t.me/cynicznykot"><img src="https://img.icons8.com/color/80/000000/telegram-app--v1.png" alt="Telegram" style="margin:0 10px;"></a>
+  <a href="https://www.linkedin.com/in/gleb-krotov-5382b03b6/"><img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" style="margin:0 10px;"></a>
+  <a href="https://www.facebook.com/profile.php?id=61574364544861"><img src="https://img.icons8.com/color/80/000000/facebook-new.png" alt="Facebook" style="margin:0 10px;"></a>
+  <a href="https://steamcommunity.com/id/Cynicznykot"><img src="https://img.icons8.com/color/80/000000/steam.png" alt="Steam" style="margin:0 10px;"></a>
 </p>
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4a7ab5&labelColor=1a1a2e" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=3a3a3a&labelColor=1a1a2e" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=1a5038&labelColor=1a1a2e" alt="Django"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=3a7a8a&labelColor=1a1a2e" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=5a7dc9&labelColor=1a1a2e" alt="PostgreSQL"/>
 </p>
 
-### Tools & Environment
+### Tools 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=d94a2a&labelColor=1a1a2e" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=3a3a3a&labelColor=1a1a2e" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=f5c842&labelColor=1a1a2e" alt="Linux"/>
 </p>
 
-### 🌱 Currently Learning
-- REST API Design
-- SQLAlchemy & Alembic
-- Testing with Pytest
-- **Java** (building a Task Manager project to understand OOP and backend logic)
+### 🌱 Currently Learning (to build real projects)
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=00b89a&labelColor=1a1a2e" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=3a8fd4&labelColor=1a1a2e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=d95a2a&labelColor=1a1a2e" alt="REST API"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-2C5BB4?style=for-the-badge&logo=python&logoColor=white&color=3a7abd&labelColor=1a1a2e" alt="SQLAlchemy"/>
+</p>
 
 ---
 
