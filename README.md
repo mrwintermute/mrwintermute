@@ -56,33 +56,50 @@ Let's connect! 🚀
 
 Here are some of the things I've built. I believe in learning by building, so I'm always working on something new.
 
-### 🎯 Guess the Number Game [![Repository](https://img.shields.io/badge/🎯_Смотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cynicznykot/guess-number-game)
+### 🎯 Guess the Number Game → [Repository](https://github.com/cynicznykot/guess-number-game)
+
 A console-based number guessing game that gives you "hot/cold" hints. Built to practice Python logic and unit testing.
 
 - **Technologies used:** Python, `unittest`
 - **Key features:** Dynamic hints, input validation, test coverage
 
-### 🔐 Password Generator [![Repository](https://img.shields.io/badge/🔐_Смотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cynicznykot/the-password-generator)
+---
+
+### 🔐 Password Generator → [Repository](https://github.com/cynicznykot/the-password-generator)
+
 A secure password generator with a graphical interface (in progress). It allows customizing length and character sets.
 
-- **Technologies used:** Python, Tkinter (or whatever you use)
+- **Technologies used:** Python, Tkinter
 - **Current stage:** Core logic is ready, working on the user interface
 
 ---
 
+### 🐴 Hungry Horses Eat Again → [Repository](https://github.com/cynicznykot/hungry-horses-eat-again)
+
+A 2D arcade-style game built with Pygame where hungry horses must eat food while avoiding obstacles. In active development.
+
+- **Technologies used:** Python, Pygame
+- **Features:** Sprite animation, collision detection, score system, event handling
+  
 ## 🚀 What's next?
 
-I have many ideas — from small utility scripts to larger, more ambitious projects. 
-
-My approach is simple: **learn by building, one step at a time**. I don't wait for the perfect moment or the perfect skill set. I just start, figure things out along the way, and keep improving.
+I have many ideas — from small utility scripts to larger, more ambitious projects. My approach is simple: learn by building, one step at a time. I don't wait for the perfect moment or the perfect skill set. I just start, figure things out along the way, and keep improving.
 
 Every project, no matter how small, teaches me something new. And as I grow, so do the projects I take on.
 
+**Current focus:**
+- 🤖 Building a Telegram bot with aiogram (async Python)
+- 🎮 Continuing development of Hungry Horses Eat Again — adding new levels, sound, and score system
+- 🐍 Deepening my knowledge of Django and FastAPI for backend development
+- 🐳 Learning Docker to containerize my projects
+
 So stay tuned — there's more to come. ☕
 
-## ☕ A bit about me
+---
+
+## ☕ About me
 
 - 🐍 I write Python code like I solve puzzles — step by step, until everything clicks.
-- ☕ I'm currently exploring Java by rewriting my Task Manager project to better understand object-oriented programming and different backend approaches.
-- 🎮 I spend my free time gaming, which taught me patience, strategy, and the importance of a good save file.
-- 📚 I'm always learning, whether it's a new framework, a design pattern, or just a better way to write a loop.
+- 🎮 In my free time, I play games — which taught me patience, strategy, and the importance of a good save file.
+- 📚 Always learning: new frameworks, design patterns, or just a better way to write a loop.
+- 🚀 I believe great developers aren't born — they're built, one commit at a time.
