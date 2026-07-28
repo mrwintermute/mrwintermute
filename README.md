@@ -56,13 +56,6 @@ Let's connect! 🚀
 
 Here are some of the things I've built. I believe in learning by building, so I'm always working on something new.
 
-### 🎯 Guess the Number Game → [Repository](https://github.com/cynicznykot/guess-number-game)
-
-A console-based number guessing game that gives you "hot/cold" hints. Built to practice Python logic and unit testing.
-
-- **Technologies used:** Python, `unittest`
-- **Key features:** Dynamic hints, input validation, test coverage
-
 ---
 
 ### 🔐 Password Generator → [Repository](https://github.com/cynicznykot/the-password-generator)
@@ -80,6 +73,21 @@ A 2D arcade-style game built with Pygame where hungry horses must eat food while
 
 - **Technologies used:** Python, Pygame
 - **Features:** Sprite animation, collision detection, score system, event handling
+
+### 🐉 D&D Name Generator API → [Repository](https://github.com/cynicznykot/dnd-name-generator-json)
+
+A bilingual (Russian/English) microservice for generating Dungeons & Dragons character names. Built as a backend API for integration into games and apps.
+
+**Key features:**
+- REST API with FastAPI
+- 10 D&D races
+- Automatic language detection via `Accept-Language` header
+- Ready-to-use examples for C#, Python, and JavaScript
+- Auto-updating JSON database
+
+**Technologies:** Python, FastAPI, Uvicorn, JSON, REST API
+
+---
   
 ## 🚀 What's next?
 
