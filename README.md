@@ -16,7 +16,7 @@ Let's connect! 🚀
   <a href="https://t.me/cynicznykot"><img src="https://img.icons8.com/color/80/000000/telegram-app--v1.png" alt="Telegram" style="margin:0 10px;"></a>
   <a href="https://www.facebook.com/profile.php?id=61574364544861"><img src="https://img.icons8.com/color/80/000000/facebook-new.png" alt="Facebook" style="margin:0 10px;"></a>
   <a href="https://www.linkedin.com/in/gleb-krotov-5382b03b6/"><img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" style="margin:0 10px;"></a>
-  <a href="https://steamcommunity.com/id/Cynicznykot"><img src="https://img.icons8.com/color/80/000000/steam.png" alt="Steam" style="margin:0 10px;"></a>
+  <a href="https://steamcommunity.com/id/reflection-code-404"><img src="https://img.icons8.com/color/80/000000/steam.png" alt="Steam" style="margin:0 10px;"></a>
   <a href="https://www.instagram.com/cynicznykot?igsh=MTJ6MmNsaG93bzVjaQ=="><img src="https://img.icons8.com/color/80/000000/instagram-new.png" alt="Instagram" style="margin:0 10px;"></a>
 </p>
 
