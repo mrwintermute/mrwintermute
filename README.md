@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi everyone! I'm Gleb! </h1>  
 
 <p align="center">
- 🐍 Python Backend Developer.
+🐍 Python Backend Developer.
 
-I'm a self-taught developer from Russia with a strong drive to continuously learn and improve. Currently diving deeper into Django, FastAPI, and PostgreSQL — building real-world projects to sharpen my skills.
+I'm a self-taught developer from Russia with a strong drive to continuously learn and improve. Currently diving deeper into **Django**, **FastAPI**, and **PostgreSQL** — building real-world projects to sharpen my skills. I believe in writing code that is not only functional but also readable and well-structured.
 
 Actively looking for internships and junior developer positions where I can contribute, grow, and collaborate with experienced teams. Open to remote opportunities worldwide.
+
+🎙️ Guest on an IT podcast (in Russian) — [listen here](https://youtu.be/svHUaiZXugI)
 
 Let's connect! 🚀
 </p>
