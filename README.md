@@ -27,9 +27,10 @@ Let's connect! 🚀
 
 ### Backend Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=3a3a3a&labelColor=1a1a2e" alt="Flask"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=1a5038&labelColor=1a1a2e" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=00b89a&labelColor=1a1a2e" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=3a3a3a&labelColor=1a1a2e" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white&color=3a7abd&labelColor=1a1a2e" style="border-radius: 0;" alt="Pydantic"/>
 </p>
 
 ### API Design
@@ -39,9 +40,11 @@ Let's connect! 🚀
 
 ### Databases & ORM
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=5a7dc9&labelColor=1a1a2e" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=3a7a8a&labelColor=1a1a2e" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-2C5BB4?style=for-the-badge&logo=python&logoColor=white&color=3a7abd&labelColor=1a1a2e" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=5a7dc9&labelColor=1a1a2e" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=1a1a2e" style="border-radius: 0;" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=c9302a&labelColor=1a1a2e" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Alembic-0C0C0C?style=for-the-badge&logo=alembic&logoColor=white&color=4a4a4a&labelColor=1a1a2e" style="border-radius: 0;" alt="Alembic"/>
 </p>
 
 ### Tools
@@ -49,6 +52,7 @@ Let's connect! 🚀
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=d94a2a&labelColor=1a1a2e" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=f5c842&labelColor=1a1a2e" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=3a8fd4&labelColor=1a1a2e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&color=2a7fc4&labelColor=1a1a2e" style="border-radius: 0;" alt="GitHub Actions"/>
 </p>
 
 ---
