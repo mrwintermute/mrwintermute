@@ -109,14 +109,10 @@ So stay tuned — there's more to come. ☕
 - 🎮 In my free time, I play games — which taught me patience, strategy, and the importance of a good save file.
 - 📚 Always learning: new frameworks, design patterns, or just a better way to write a loop.
 - 🚀 I believe great developers aren't born — they're built, one commit at a time.
-
-- ## 📊 GitHub Stats
+  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=cynicznykot&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cynicznykot&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <i>Built one commit at a time.</i>
 </p>
